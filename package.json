@@ -1,0 +1,9 @@
+{
+  "name": "jenkins-cicd-pipeline",
+  "version": "1.0.0",
+  "description": "CI/CD Pipeline using Jenkins, Docker and AWS EC2",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
