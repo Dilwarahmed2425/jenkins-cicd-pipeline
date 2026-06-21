@@ -4,7 +4,7 @@ const PORT = 3000;
 
 const server = http.createServer((req, res) => {
     res.writeHead(200, {"Content-Type":"text/html"});
-    res.end("Jenkins CI/CD Pipeline Successful!");
+    res.end("Jenkins CI/CD Pipeline Version 2 🚀");
 });
 
 server.listen(PORT, () => {
